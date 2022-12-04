@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-counter-application/static/js/main.3a3c8c6c.js",
+    "index.html": "/react-counter-application/index.html",
+    "main.3a3c8c6c.js.map": "/react-counter-application/static/js/main.3a3c8c6c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a3c8c6c.js"
+  ]
+}
